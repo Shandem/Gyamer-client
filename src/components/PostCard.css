@@ -1,0 +1,17 @@
+.PostCard{
+    width: 500px;
+    align-items: center;
+    margin: auto;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+    border: solid 5px black;
+}
+.xbox{
+    margin-left: -80px;
+}
+.nes{
+    margin-left: -105px;
+}
+.ps{
+    margin-left: -115px;
+}
